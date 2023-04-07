@@ -1,0 +1,2 @@
+# consul-demo
+一个concel使用的实验demo，注册了一个http服务和一个grpc服务，http服务调用了grpc服务
